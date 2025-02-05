@@ -44,8 +44,6 @@
   <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
 </p>
 
-Updated by Jikun
-
 ## Table of Contents
 
 1. [Introduction](#1-introduction)
